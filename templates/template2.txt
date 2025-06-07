@@ -1,0 +1,10 @@
+
+Hi {name},
+this is temp 2
+I’m Jhalak Bhandari, a full-stack developer interested in the {position} role at {company}. 
+Please find my resume attached.
+
+Regards,  
+Jhalak Bhandari  
++91-9315999541  
+LinkedIn: www.linkedin.com/in/jhalak-bhandari-3680961aa
